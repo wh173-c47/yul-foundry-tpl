@@ -1,5 +1,7 @@
 # Yul Foundry Template
 
+Adapted from https://github.com/CodeForcer/foundry-yul
+
 This repo is a basic boilerplate for pure Yul smart contract development, it also includes a create2 deployment script and multichain deployment handling.
 
 ## Setting up
